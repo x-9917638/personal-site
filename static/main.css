@@ -23,3 +23,7 @@ footer {
 footer > p {
     margin: 0;
 }
+
+#footnote {
+    font-size: x-small;
+}
